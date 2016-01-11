@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02ecf1f8-2588-4784-8a4b-0c51bc174ca0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page-about.html" afterPath="$PROJECT_DIR$/page-about.html" />
     </list>
     <ignored path="bexarcomm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4192073">
-              <caret line="232" column="0" selection-start-line="232" selection-start-column="0" selection-end-line="241" selection-end-column="53" />
+            <state vertical-scroll-proportion="0.625">
+              <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="227" selection-end-column="111" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -281,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4192073">
-          <caret line="232" column="0" selection-start-line="232" selection-start-column="0" selection-end-line="241" selection-end-column="53" />
+        <state vertical-scroll-proportion="0.625">
+          <caret line="225" column="0" selection-start-line="225" selection-start-column="0" selection-end-line="227" selection-end-column="111" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
